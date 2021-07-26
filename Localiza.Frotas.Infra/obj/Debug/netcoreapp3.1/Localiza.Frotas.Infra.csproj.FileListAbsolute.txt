@@ -1,0 +1,12 @@
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.deps.json
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.dll
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Infra.pdb
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.AssemblyReference.cache
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.AssemblyInfoInputs.cache
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.AssemblyInfo.cs
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.dll
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.pdb
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.dll
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Domain.pdb
+C:\Users\rpwob\Documents\BOOTCAMP\Everis New Talent\Introdução a design patterns com .Net\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Infra.csproj.CopyComplete
